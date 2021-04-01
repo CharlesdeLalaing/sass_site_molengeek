@@ -6193,6 +6193,673 @@ nav span:hover {
   border-radius: 3px;
 }
 
+.newsletter {
+  font-family: "Montserrat", sans-serif;
+}
+.newsletter div img {
+  height: 40px;
+  height: 40px;
+  margin-left: -390px;
+  filter: brightness(0) invert(1);
+  margin-top: 5px;
+}
+
+.newsletter {
+  background-color: purple;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.newsletter span {
+  font-size: 15px;
+  color: white;
+}
+.newsletter input {
+  border-radius: 3px;
+  border: white solid 1px;
+  padding: 3px;
+  margin: 3px;
+}
+.newsletter button {
+  border-radius: 3px;
+  border: green solid 2px;
+  background-color: green;
+  padding: 3px;
+  color: white;
+}
+
+nav {
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+nav img {
+  height: 100px;
+  width: 200px;
+  margin-right: 60px;
+}
+nav ul li {
+  display: inline;
+  color: black;
+  font-size: 15px;
+  padding: 15px;
+}
+nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+nav ul li:hover {
+  text-decoration: underline;
+}
+nav span {
+  margin-left: 60px;
+  font-size: 15px;
+}
+nav span a {
+  color: black;
+  text-decoration: none;
+}
+nav span:hover {
+  background-color: purple;
+  border: purple solid 1px;
+  border-radius: 3px;
+}
+
+.text {
+  font-family: "Montserrat", sans-serif;
+  align-items: center;
+  justify-content: center;
+}
+.text .haut h1 {
+  font-size: 40px;
+  text-align: center;
+}
+.text .haut hr {
+  width: 40px;
+  margin-bottom: 40px;
+  color: purple;
+  border: purple solid 1px;
+}
+.text .haut p {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.list {
+  margin-top: 40px;
+}
+.list ul {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 40px;
+}
+
+.text .bas {
+  padding-bottom: 50px;
+}
+.text .bas h2 {
+  font-size: 30px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 20px;
+}
+.text .bas p {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+footer {
+  font-family: "Montserrat", sans-serif;
+  background-color: #363636;
+  height: 400px;
+  justify-content: space-around;
+}
+footer .rs {
+  font-size: 15px;
+  color: white;
+  justify-content: space-between;
+  text-align: center;
+}
+footer .rs i {
+  margin: 40px 40px;
+  padding: 15px;
+  border: white solid 3px;
+  border-radius: 50%;
+}
+footer .rs span {
+  text-transform: uppercase;
+  font-weight: bolder;
+  margin-left: -35px;
+}
+footer hr {
+  border: none;
+  height: 1px;
+  /* Set the hr color */
+  color: #354141;
+  background-color: #354141;
+}
+footer img {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  height: 100px;
+  margin-left: 42%;
+  justify-content: center;
+  background-color: transparent;
+}
+footer p {
+  text-align: center;
+}
+
+.newsletter {
+  font-family: "Montserrat", sans-serif;
+}
+.newsletter div img {
+  height: 40px;
+  height: 40px;
+  margin-left: -230px;
+  filter: brightness(0) invert(1);
+  margin-top: 5px;
+}
+
+.newsletter {
+  background-color: purple;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.newsletter span {
+  font-size: 15px;
+  color: white;
+}
+.newsletter input {
+  border-radius: 3px;
+  border: white solid 1px;
+  padding: 3px;
+  margin: 3px;
+}
+.newsletter button {
+  border-radius: 3px;
+  border: green solid 2px;
+  background-color: green;
+  padding: 3px;
+  color: white;
+}
+
+nav {
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+nav img {
+  height: 70px;
+  width: 140px;
+  margin-right: 50px;
+}
+nav ul li {
+  display: inline;
+  color: black;
+  font-size: 12px;
+  padding: 8px;
+}
+nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+nav ul li:hover {
+  text-decoration: underline;
+}
+nav span {
+  margin-left: 50px;
+  font-size: 13px;
+}
+nav span a {
+  color: black;
+  text-decoration: none;
+}
+nav span:hover {
+  background-color: purple;
+  border: purple solid 1px;
+  border-radius: 3px;
+}
+
+.text {
+  font-family: "Montserrat", sans-serif;
+  align-items: center;
+  justify-content: center;
+}
+.text .haut h1 {
+  font-size: 30px;
+  text-align: center;
+}
+.text .haut hr {
+  width: 40px;
+  margin-bottom: 40px;
+  color: purple;
+  border: purple solid 1px;
+}
+.text .haut p {
+  font-size: 16px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.list {
+  margin-top: 40px;
+}
+.list ul {
+  font-size: 16px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 40px;
+}
+
+.text .bas {
+  padding-bottom: 50px;
+}
+.text .bas h2 {
+  font-size: 25px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 20px;
+}
+.text .bas p {
+  font-size: 16px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+footer {
+  font-family: "Montserrat", sans-serif;
+  background-color: #363636;
+  height: 400px;
+  justify-content: space-around;
+}
+footer .rs {
+  font-size: 15px;
+  color: white;
+  justify-content: space-between;
+  text-align: center;
+}
+footer .rs i {
+  margin: 40px 40px;
+  padding: 15px;
+  border: white solid 3px;
+  border-radius: 50%;
+}
+footer .rs span {
+  text-transform: uppercase;
+  font-weight: bolder;
+  margin-left: -35px;
+}
+footer hr {
+  border: none;
+  height: 1px;
+  /* Set the hr color */
+  color: #354141;
+  background-color: #354141;
+}
+footer img {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  height: 100px;
+  margin-left: 42%;
+  justify-content: center;
+  background-color: transparent;
+}
+footer p {
+  text-align: center;
+}
+
+.newsletter {
+  font-family: "Montserrat", sans-serif;
+}
+.newsletter div img {
+  height: 40px;
+  height: 40px;
+  margin-left: -120px;
+  filter: brightness(0) invert(1);
+  margin-top: 5px;
+}
+
+.newsletter {
+  background-color: purple;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.newsletter span {
+  font-size: 13px;
+  color: white;
+}
+.newsletter input {
+  font-size: 13px;
+  border-radius: 3px;
+  border: white solid 1px;
+  padding: 3px;
+  margin: 3px;
+}
+.newsletter button {
+  font-size: 13px;
+  border-radius: 3px;
+  border: green solid 2px;
+  background-color: green;
+  padding: 3px;
+  color: white;
+}
+
+nav {
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+nav img {
+  height: 70px;
+  width: 140px;
+  margin-right: 50px;
+}
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
+nav ul li {
+  display: inline;
+  color: black;
+  font-size: 12px;
+  padding: 8px;
+}
+nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+nav ul li:hover {
+  text-decoration: underline;
+}
+nav span {
+  margin-left: 50px;
+  font-size: 12px;
+}
+nav span a {
+  color: black;
+  text-decoration: none;
+}
+nav span:hover {
+  background-color: purple;
+  border: purple solid 1px;
+  border-radius: 3px;
+}
+
+.text {
+  font-family: "Montserrat", sans-serif;
+  align-items: center;
+  justify-content: center;
+}
+.text .haut h1 {
+  font-size: 25px;
+  text-align: center;
+}
+.text .haut hr {
+  width: 40px;
+  margin-bottom: 40px;
+  color: purple;
+  border: purple solid 1px;
+}
+.text .haut p {
+  font-size: 14px;
+  margin-left: 7%;
+  margin-right: 7%;
+}
+
+.list {
+  margin-top: 40px;
+}
+.list ul {
+  font-size: 14px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 40px;
+}
+
+.text .bas {
+  padding-bottom: 50px;
+}
+.text .bas h2 {
+  font-size: 25px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 20px;
+}
+.text .bas p {
+  font-size: 14px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+footer {
+  font-family: "Montserrat", sans-serif;
+  background-color: #363636;
+  height: 250px !important;
+  justify-content: space-around;
+}
+footer .rs {
+  font-size: 12px;
+  color: white;
+  justify-content: space-between;
+  text-align: center;
+}
+footer .rs i {
+  margin: 20px 40px !important;
+  padding: 10px;
+  border: white solid 3px;
+  border-radius: 50%;
+}
+footer .rs span {
+  text-transform: uppercase;
+  font-weight: bolder;
+  margin-left: -35px;
+}
+footer hr {
+  border: none;
+  height: 1px;
+  /* Set the hr color */
+  color: #354141;
+  background-color: #354141;
+}
+footer img {
+  margin-top: 20px !important;
+  margin-bottom: 5px !important;
+  height: 50px !important;
+  margin-left: 44% !important;
+  justify-content: center;
+  background-color: transparent;
+}
+footer p {
+  text-align: center;
+  color: white;
+}
+
+.newsletter {
+  font-family: "Montserrat", sans-serif;
+}
+.newsletter div img {
+  height: 40px;
+  height: 40px;
+  margin-left: -120px;
+  filter: brightness(0) invert(1);
+  margin-top: 5px;
+}
+
+.newsletter {
+  background-color: purple;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.newsletter span {
+  font-size: 13px;
+  color: white;
+}
+.newsletter input {
+  font-size: 13px;
+  border-radius: 3px;
+  border: white solid 1px;
+  padding: 3px;
+  margin: 3px;
+}
+.newsletter button {
+  font-size: 13px;
+  border-radius: 3px;
+  border: green solid 2px;
+  background-color: green;
+  padding: 3px;
+  color: white;
+}
+
+nav {
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+nav img {
+  height: 70px;
+  width: 140px;
+  margin-right: 50px;
+}
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
+nav ul li {
+  display: inline;
+  color: black;
+  font-size: 12px;
+  padding: 8px;
+}
+nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+nav ul li:hover {
+  text-decoration: underline;
+}
+nav span {
+  margin-left: 50px;
+  font-size: 12px;
+}
+nav span a {
+  color: black;
+  text-decoration: none;
+}
+nav span:hover {
+  background-color: purple;
+  border: purple solid 1px;
+  border-radius: 3px;
+}
+
+.text {
+  font-family: "Montserrat", sans-serif;
+  align-items: center;
+  justify-content: center;
+}
+.text .haut h1 {
+  font-size: 25px;
+  text-align: center;
+}
+.text .haut hr {
+  width: 40px;
+  margin-bottom: 40px;
+  color: purple;
+  border: purple solid 1px;
+}
+.text .haut p {
+  font-size: 14px;
+  margin-left: 7%;
+  margin-right: 7%;
+}
+
+.list {
+  margin-top: 40px;
+}
+.list ul {
+  font-size: 14px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 40px;
+}
+
+.text .bas {
+  padding-bottom: 50px;
+}
+.text .bas h2 {
+  font-size: 25px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 20px;
+}
+.text .bas p {
+  font-size: 14px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+footer {
+  font-family: "Montserrat", sans-serif;
+  background-color: #363636;
+  height: 250px !important;
+  justify-content: space-around;
+}
+footer .rs {
+  font-size: 12px;
+  color: white;
+  justify-content: space-between;
+  text-align: center;
+}
+footer .rs i {
+  margin: 20px 40px !important;
+  padding: 10px;
+  border: white solid 3px;
+  border-radius: 50%;
+}
+footer .rs span {
+  text-transform: uppercase;
+  font-weight: bolder;
+  margin-left: -35px;
+}
+footer hr {
+  border: none;
+  height: 1px;
+  /* Set the hr color */
+  color: #354141;
+  background-color: #354141;
+}
+footer img {
+  margin-top: 20px !important;
+  margin-bottom: 5px !important;
+  height: 50px !important;
+  margin-left: 44% !important;
+  justify-content: center;
+  background-color: transparent;
+}
+footer p {
+  text-align: center;
+  color: white;
+}
+
 footer {
   font-family: "Montserrat", sans-serif;
   background-color: #363636;
